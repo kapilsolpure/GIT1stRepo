@@ -1,3 +1,2 @@
 welcome to devops git 
 hello kapil 
-hello avinash
