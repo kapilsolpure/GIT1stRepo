@@ -11,13 +11,13 @@
 
     <dependencies>
         <dependency>
-            <groupId>some.group</groupId>
-            <artifactId>some-artifact</artifactId>
-            <version>1.0</version>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.14.0</version>
         </dependency>
-        <!-- Add more dependencies as needed -->
     </dependencies>
 
 </project>
+
 
 
